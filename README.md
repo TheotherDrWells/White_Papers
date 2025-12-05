@@ -43,5 +43,5 @@ You are free to share and adapt the materials, but not for commercial use. Attri
 
 For inquiries, collaborations, or formal citations:  
 **Kevin E. Wells, PhD**  
-[kevin.e.wells@gmail.com](mailto:kevin.e.wells@gmail.com)  
+[kevinwellsphd@gmail.com](mailto:kevinwellspdh@gmail.com)  
 [github.com/TheOtherDrWells](https://github.com/TheOtherDrWells)
